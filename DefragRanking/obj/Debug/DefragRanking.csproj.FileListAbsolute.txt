@@ -1,0 +1,11 @@
+d:\mis documentos\visual studio 2012\Projects\DefragRanking\DefragRanking\bin\Debug\DefragRanking.exe.config
+d:\mis documentos\visual studio 2012\Projects\DefragRanking\DefragRanking\bin\Debug\DefragRanking.exe
+d:\mis documentos\visual studio 2012\Projects\DefragRanking\DefragRanking\bin\Debug\DefragRanking.pdb
+d:\mis documentos\visual studio 2012\Projects\DefragRanking\DefragRanking\obj\Debug\DefragRanking.exe
+d:\mis documentos\visual studio 2012\Projects\DefragRanking\DefragRanking\obj\Debug\DefragRanking.pdb
+d:\Mis documentos\Dropbox\Proyectos\DefragRanking2\DefragRanking\bin\Debug\DefragRanking.exe.config
+d:\Mis documentos\Dropbox\Proyectos\DefragRanking2\DefragRanking\obj\Debug\DefragRanking.exe
+d:\Mis documentos\Dropbox\Proyectos\DefragRanking2\DefragRanking\obj\Debug\DefragRanking.pdb
+d:\Mis documentos\Dropbox\Proyectos\DefragRanking2\DefragRanking\obj\Debug\DefragRanking.csprojResolveAssemblyReference.cache
+d:\Mis documentos\Dropbox\Proyectos\DefragRanking2\DefragRanking\bin\Debug\DefragRanking.exe
+d:\Mis documentos\Dropbox\Proyectos\DefragRanking2\DefragRanking\bin\Debug\DefragRanking.pdb
