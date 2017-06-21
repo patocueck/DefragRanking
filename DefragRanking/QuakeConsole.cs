@@ -232,12 +232,12 @@ namespace DefragRanking
 
         public void initialize()
         {
-            
             while (!bStopProgram)
             {
-                Console.WriteLine(this.handleQ3Txt);
+                //Console.WriteLine(this.handleQ3Txt);
                 //Console.WriteLine("entre");
-                sendStringToConsole("123");
+                //sendStringToConsole("123");
+                getCommand();
 
                 Thread.Sleep(1000);
             }

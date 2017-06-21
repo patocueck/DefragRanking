@@ -20,17 +20,14 @@ namespace DefragRanking
 
             foreach (IntPtr server in servers)
             {
-                if (server != null)
-                {
-                    IntPtr tmp = server;
-                    QuakeConsole defragRanking = new QuakeConsole(tmp);
+                IntPtr tmp = server;
+                QuakeConsole defragRanking = new QuakeConsole(tmp);
 
-                    Thread threadConsole = new Thread(defragRanking.initialize);
-                    threadConsole.Start();
-                    while (!threadConsole.IsAlive) ;
-                    Console.WriteLine("=========================================");
-                    Console.WriteLine("Defrag Ranking se inicio correctamente...");
-                }
+                Thread threadConsole = new Thread(defragRanking.initialize);
+                threadConsole.Start();
+                while (!threadConsole.IsAlive) ;
+                Console.WriteLine("=========================================");
+                Console.WriteLine("Defrag Ranking se inicio correctamente...");
             }
            
 
